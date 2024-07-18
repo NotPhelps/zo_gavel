@@ -1,7 +1,7 @@
 Config = {}
 -- Location of Gavel and source where sound is calculated from
 Config.gavelLocation = vec3(206.6300, -407.0976, 48.8915) -- CHANGE TO PROPER COORDS / DESK IN COURTROOM
-
+--- Gabz Cityhall vec3(-575.65, -210.72, 38.56)
 -- Max distance you can be to hear sound
 Config.maxDistance = 25
 
